@@ -33,5 +33,5 @@ Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentia
                 Misconfigurations (e.g., insecure services enabled)
                 Publicly known vulnerabilities (via CVEs)
 
-####All the findings and vulnerability scannings screenshots are attached in this repository.
+###All the findings and vulnerability scannings screenshots are attached in this repository.
  
