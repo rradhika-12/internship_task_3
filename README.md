@@ -23,4 +23,15 @@ Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentia
         Document/report of scan can also be downloaded.
 
   Here in this task for identifying vulnerabilities in own system, I used 2 IP (System and Kali Linux) using Nessus Essentials.
+  Nessus Essentials is a free vulnerability scanning tool offered by Tenable. It's designed for students, beginners, and security enthusiasts to learn how to scan systems for weaknesses. 
+  ##Scan types: 	Full vulnerability scan, basic network scan, web application scan, and more + Access to thousands of vulnerability checks (CVEs) + 	Clean, detailed, exportable reports (PDF, HTML, CSV).
+  ##What It Can Detect:
+  
+                Outdated software (e.g., old versions of Windows, browsers, services)
+                Open and vulnerable ports
+                Weak passwords
+                Misconfigurations (e.g., insecure services enabled)
+                Publicly known vulnerabilities (via CVEs)
+
+####All the findings and vulnerability scannings screenshots are attached in this repository.
  
